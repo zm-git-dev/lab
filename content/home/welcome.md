@@ -48,4 +48,4 @@ hero_media = "malabfamliy.jpg"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**We are group of people dedicated to Bioinformatics research and service provision.**
+

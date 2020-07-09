@@ -54,10 +54,6 @@ subtitle = ""
 
 ##  研究方向
 
-Within the fields of bioinformatics and systems biology, we seek to apply Big-Data technologies and methods to answer questions in plant biology, specifically in studies of crop genomics and genetics.
-
-The main research interests include:
-
 - 建立起完整的猪骨骼肌不同发育阶段的非编码区功能基因组注释;
 - 在群体层面研究DNA变异如何通过影响转录调控的不同元件来影响猪的产肉性状，继而在全基因组层面解析产肉性状的遗传机理;
 - 开发新的实验方法找寻影响复杂性状的非编码区调控原件;
