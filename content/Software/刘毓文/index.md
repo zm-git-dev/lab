@@ -6,7 +6,7 @@ tags:
 #- Large-Scale Datasets
 #- Machine Learning
 #- Plants
-date: "2014-12-19T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 # image:
