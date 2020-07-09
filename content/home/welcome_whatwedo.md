@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome to Ma Lab"
+title = "Welcome to Liu Lab"
 subtitle = ""
 
 [design]
@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-**课题组目前隶属于动物基因组研究中心“猪基因组设计育种创新团队”，侧重开发实验和计算方法，通过整合多组学数据，研究复杂性状形成的遗传基础。方法将在猪的产肉性状上重点应用，从源头上提高生猪种源的质量。**
+**课题组简介：**课题组目前隶属于动物基因组研究中心“猪基因组设计育种创新团队”，侧重开发实验和计算方法，通过整合多组学数据，研究复杂性状形成的遗传基础。方法将在猪的产肉性状上重点应用，从源头上提高生猪种源的质量。
 
-##  研究方向
+##  研究方向:
 
 - 建立起完整的猪骨骼肌不同发育阶段的非编码区功能基因组注释;
 - 在群体层面研究DNA变异如何通过影响转录调控的不同元件来影响猪的产肉性状，继而在全基因组层面解析产肉性状的遗传机理;
