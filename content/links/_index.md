@@ -22,12 +22,3 @@ layout: docs    # Do not modify.
 
 ---
 
-List of information regarding Journals, Software, Websites, Online courses, and Tutorials.
-
-* [**Journals**](/links/journals)
-* [**Software**](/links/software)
-* [**Websites**](/links/websites)
-* [**Online Courses**](/links/onlinecourses)
-* [**Tutorials**](/links/tutorials)
-
-<br>
