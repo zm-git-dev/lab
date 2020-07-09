@@ -1,8 +1,8 @@
 ---
-title: 郑伟刚
+title: 张松
 summary: 
 tags:
-- 科研助理
+- 博后
 #- RNA-Seq
 #- Machine Learning
 #- Pipeline
@@ -39,5 +39,5 @@ url_code: "https://github.com/cma2015/CAFU"
 >
 > **BACKGROUND**
 >
-> * 吉林农业大学，农业昆虫与害虫防治，硕士
-> * 山东农业大学，农业资源与环境，学士
+> * 本硕博毕业于西北农林科技大学
+> * 动物遗传育种与繁殖，博士；动物学，硕士；动物科学，学士

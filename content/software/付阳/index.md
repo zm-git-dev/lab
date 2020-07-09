@@ -1,6 +1,6 @@
 ---
-title: 郑伟刚
-summary: 
+title: 付阳
+summary: 科研助理
 tags:
 - 科研助理
 #- RNA-Seq
@@ -39,5 +39,5 @@ url_code: "https://github.com/cma2015/CAFU"
 >
 > **BACKGROUND**
 >
-> * 吉林农业大学，农业昆虫与害虫防治，硕士
-> * 山东农业大学，农业资源与环境，学士
+> * 香港中文大学，基因组学与生物信息学，硕士
+> * 南京农业大学，农学，学士

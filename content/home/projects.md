@@ -34,6 +34,10 @@ subtitle = ""
     tag = "科研助理"
 
   [[content.filter_button]]
+    name = "博后"
+    tag = "博后"
+
+  [[content.filter_button]]
     name = "博士"
     tag = "博士"
 
