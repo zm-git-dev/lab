@@ -1,5 +1,5 @@
 ---
-title: "PEA: an Integrated R Toolkit for Plant Epitranscriptome Analysis"
+title: "ZZ"
 authors:
 - Jingjing Zhai
 - Song Jie
