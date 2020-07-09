@@ -2,10 +2,10 @@
 title: BigData
 summary: Artificial intelligence (AI)-based Big-data analysis approaches and their applications
 tags:
-- Big Data
-- Large-Scale Datasets
-- Machine Learning
-- Plants
+- 研究员
+#- Large-Scale Datasets
+#- Machine Learning
+#- Plants
 date: "2014-12-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

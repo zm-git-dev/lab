@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "Machine Learning"
+    name = "研究员"
+    tag = "研究员"
   
   [[content.filter_button]]
     name = "Databases"

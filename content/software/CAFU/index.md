@@ -2,12 +2,12 @@
 title: CAFU
 summary: A bioinformatics framework for comprehensive assembly and functional annotation
 tags:
-- Galaxy
-- RNA-Seq
-- Machine Learning
-- Pipeline
-- Unmapped Reads
-- Workflow
+- 研究员
+#- RNA-Seq
+#- Machine Learning
+#- Pipeline
+#- Unmapped Reads
+#- Workflow
 date: "2019-02-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
