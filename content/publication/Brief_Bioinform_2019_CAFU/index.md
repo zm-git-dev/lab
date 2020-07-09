@@ -1,21 +1,14 @@
 ---
-title: "CAFU: a Galaxy framework for exploring unmapped RNA-Seq data"
+title: "RNA-seq differential expression studies: more sequence or more replication?"
 authors:
-- Siyuan Chen
-- Chengzhi Ren
-- Jingjing Zhai
-- Jiantao Yu
-- Xuyang Zhao
-- Zelong Li
-- Ting Zhang
-- Wenlong Ma
-- Zhaoxue Han
-- Chuang Ma
-date: "2019-02-28T00:00:00Z"
-doi: "10.1093/bib/bbz018"
+- Yuwen Liu
+-  Jie Zhou
+-  Kevin P. White
+#date: "2013-12-06T00:00:00Z"
+doi: "10.1093/bioinformatics/btt688"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-02-28T00:00:00Z"
+publishDate: "2013-12-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,34 +17,37 @@ publishDate: "2019-02-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Briefings in Bioinformatics*"
-publication_short: "Brief Bioinform"
+publication: "*BIOINFORMATICS*"
+publication_short: "BIOINFORMATICS"
 
-abstract: "A widely used approach in transcriptome analysis is the alignment of short reads to a reference genome. However, owing to the deficiencies of specially designed analytical systems, short reads unmapped to the genome sequence are usually ignored, resulting in the loss of significant biological information and insights. To fill this gap, we present Comprehensive Assembly and Functional annotation of Unmapped RNA-Seq data (CAFU), a Galaxy-based framework that can facilitate the large-scale analysis of unmapped RNA sequencing (RNA-Seq) reads from single- and mixed-species samples. By taking advantage of machine learning techniques, CAFU addresses the issue of accurately identifying the species origin of transcripts assembled using unmapped reads from mixed-species samples. CAFU also represents an innovation in that it provides a comprehensive collection of functions required for transcript confidence evaluation, coding potential calculation, sequence and expression characterization and function annotation. These functions and their dependencies have been integrated into a Galaxy framework that provides access to CAFU via a user-friendly interface, dramatically simplifying complex exploration tasks involving unmapped RNA-Seq reads. CAFU has been validated with RNA-Seq data sets from wheat and Zea mays (maize) samples. CAFU is freely available via GitHub: https://github.com/cma2015/CAFU."
+abstract: "**ABSTRACT**：Motivation: RNA-seq is replacing microarrays as the primary tool for gene expression studies. Many RNA-seq studies have used insufficient biological replicates, resulting in low statistical power and inefficient use of sequencing resources.
+**Results**: We show the explicit trade-off between more biological replicates and deeper sequencing in increasing power to detect differentially expressed (DE) genes. In the human cell line MCF7, adding more sequencing depth after 10 M reads gives diminishing returns on power to detect DE genes, whereas adding biological replicates improves power significantly regardless of sequencing depth. We also propose
+a cost-effectiveness metric for guiding the design of large-scale RNAseq DE studies. Our analysis showed that sequencing less reads and performing more biological replication is an effective strategy to increase power and accuracy in large-scale differential expression RNA-seq studies, and provided new insights into efficient experiment
+design of RNA-seq studies."
 
 # Summary. An optional shortened abstract.
 #summary: 
 
 tags:
-- Galaxy
-- RNA-Seq
-- Machine Learning
-- Pipeline
-- Unmapped Reads
-- Workflow
+#- Galaxy
+#- RNA-Seq
+#- Machine Learning
+#- Pipeline
+#- Unmapped Reads
+#- Workflow
 featured: true
 
 links:
 - name: PubMed
-  url: https://www.ncbi.nlm.nih.gov/pubmed/30815667
-url_pdf: ''
-url_code: 'https://github.com/cma2015/CAFU'
-url_dataset: ''
-url_poster: ''
-url_project: 'http://cafu.nwafu.edu.cn'
-url_slides: ''
-url_source: ''
-url_video: ''
+  url: https://pubmed.ncbi.nlm.nih.gov/24319002/
+#url_pdf: ''
+#url_code: 'https://github.com/cma2015/CAFU'
+#url_dataset: ''
+#url_poster: ''
+#url_project: 'http://cafu.nwafu.edu.cn'
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
