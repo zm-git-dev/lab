@@ -29,12 +29,14 @@ publication_short: " Genome Biology"
 abstract: " Most cancer risk-associated single nucleotide polymorphisms (SNPs) identified by genome-wide
 association studies (GWAS) are noncoding and it is challenging to assess their functional impacts. To systematically identify the SNPs that affect gene expression by modulating activities of distal regulatory elements, we adapt the self-transcribing active regulatory region sequencing (STARR-seq) strategy, a high-throughput technique to functionally quantify enhancer activities.
 
+
 Results: From 10,673 SNPs linked with 996 cancer risk-associated SNPs identified in previous GWAS studies, we
 identify 575 SNPs in the fragments that positively regulate gene expression, and 758 SNPs in the fragments with
 negative regulatory activities. Among them, 70 variants are regulatory variants for which the two alleles confer
 different regulatory activities. We analyze in depth two regulatory variants—breast cancer risk SNP rs11055880 and
 leukemia risk-associated SNP rs12142375—and demonstrate their endogenous regulatory activities on expression of
 ATF7IP and PDE4B genes, respectively, using a CRISPR-Cas9 approach.
+
 
 Conclusions: By identifying regulatory variants associated with cancer susceptibility and studying their molecular
 functions, we hope to help the interpretation of GWAS results and provide improved information for cancer risk
