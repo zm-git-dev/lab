@@ -25,6 +25,7 @@ publication: "*Genome Biology*"
 publication_short: "Genome Biology"
 
 abstract: "**Background**: Genome-wide quantification of enhancer activity in the human genome has proven to be a challenging problem. Recent efforts have led to the development of powerful tools for enhancer quantification. However, because of genome size and complexity, these tools have yet to be applied to the whole human genome.
+
 **Results**: In the current study, we use a human prostate cancer cell line, LNCaP as a model to perform whole human
 genome STARR-seq (WHG-STARR-seq) to reliably obtain an assessment of enhancer activity. This approach builds upon
 previously developed STARR-seq in the fly genome and CapSTARR-seq techniques in targeted human genomic
@@ -34,6 +35,7 @@ larger human genome. In addition to our ability to identify active, accessible e
 regions, we can also detect sequences with the potential for enhancer activity that are located in inaccessible, closed
 chromatin regions. When treated with the histone deacetylase inhibitor, Trichostatin A, genes nearby this latter class of
 enhancers are up-regulated, demonstrating the potential for endogenous functionality of these regulatory elements.
+
 **Conclusion**: WHG-STARR-seq provides an improved approach to current pipelines for analysis of high complexity
 genomes to gain a better understanding of the intricacies of transcriptional regulation."
 
