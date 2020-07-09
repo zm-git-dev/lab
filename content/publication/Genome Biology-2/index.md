@@ -1,20 +1,20 @@
 ---
-title: "Systematic identification of regulatory variants associated with cancer risk"
+title: "Systematic identification of regulatory
+variants associated with cancer risk"
 authors:
 - Song Liu
 - Yuwen Liu
--  Qin Zhang
+- Qin Zhang
 - Jiayu Wu
--  Junbo Liang
+- Junbo Liang
 - Shan Yu
--Gong-Hong Wei
--Kevin P. White
--Xiaoyue Wang
-date: "2017T00:00:00Z"
-doi: " 10.1186/s13059-017-1322-z"
+- Gong-Hong Wei
+- Kevin P. White
+date: "2017-10-23T00:00:00Z"
+doi: "10.1093/bioinformatics/btt688"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-12-15T00:00:00Z"
+#publishDate: "2017-10-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,44 +23,37 @@ publishDate: "2016-12-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Plant Science*"
-publication_short: "Front Plant Sci"
+publication: "* Genome Biology*"
+publication_short: " Genome Biology"
 
-abstract: "**Background**: Most cancer risk-associated single nucleotide polymorphisms (SNPs) identified by genome-wide
+abstract: " Most cancer risk-associated single nucleotide polymorphisms (SNPs) identified by genome-wide
 association studies (GWAS) are noncoding and it is challenging to assess their functional impacts. To systematically identify the SNPs that affect gene expression by modulating activities of distal regulatory elements, we adapt the self-transcribing active regulatory region sequencing (STARR-seq) strategy, a high-throughput technique to functionally quantify enhancer activities.
 
-**Results**: From 10,673 SNPs linked with 996 cancer risk-associated SNPs identified in previous GWAS studies, we
+Results: From 10,673 SNPs linked with 996 cancer risk-associated SNPs identified in previous GWAS studies, we
 identify 575 SNPs in the fragments that positively regulate gene expression, and 758 SNPs in the fragments with
 negative regulatory activities. Among them, 70 variants are regulatory variants for which the two alleles confer
 different regulatory activities. We analyze in depth two regulatory variants—breast cancer risk SNP rs11055880 and
 leukemia risk-associated SNP rs12142375—and demonstrate their endogenous regulatory activities on expression of
 ATF7IP and PDE4B genes, respectively, using a CRISPR-Cas9 approach.
 
-**Conclusions**: By identifying regulatory variants associated with cancer susceptibility and studying their molecular functions, we hope to help the interpretation of GWAS results and provide improved information for cancer risk
+Conclusions: By identifying regulatory variants associated with cancer susceptibility and studying their molecular
+functions, we hope to help the interpretation of GWAS results and provide improved information for cancer risk
 assessment."
 
 # Summary. An optional shortened abstract.
 #summary: 
 
 tags:
-#- Biological Network
-#- Data Fusion
-#- Flowering Time
-#- Gene Prioritization
-#- Machine Learning
-#- Meta-Analysis
-#- Rank Aggregation
-#- Systems Biology
 featured: true
 
 links:
 - name: PubMed
-  url: https://liu-lab.netlify.app/publication/genome-biology/
+  url: https://pubmed.ncbi.nlm.nih.gov/29061142/
 #url_pdf: ''
-#url_code: 'https://github.com/cma2015/RAP'
+#url_code: 'https://github.com/cma2015/deepTS'
 #url_dataset: ''
 #url_poster: ''
-#url_project: ''
+#url_project: 'http://deepts.nwafu.edu.cn'
 #url_slides: ''
 #url_source: ''
 #url_video: ''
