@@ -1,5 +1,5 @@
 ---
-title: "Exploring transcriptional switches from pairwise, temporal, and population RNA-Seq data using deepTS"
+title: "HAO"
 authors:
 - Zhixu Qiu
 - Siyuan Chen
