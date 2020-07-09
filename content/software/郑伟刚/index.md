@@ -1,6 +1,6 @@
 ---
 title: 郑伟刚
-summary: 
+summary: 科研助理
 tags:
 - 科研助理
 #- RNA-Seq

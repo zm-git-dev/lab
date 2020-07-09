@@ -1,8 +1,8 @@
 ---
-title: 张松
-summary: 博后
+title: 王超
+summary: 博士
 tags:
-- 博后
+- 博士
 #- RNA-Seq
 #- Machine Learning
 #- Pipeline
@@ -37,7 +37,8 @@ url_code: "https://github.com/cma2015/CAFU"
 
 >  
 >
-> **BACKGROUND**
+>  **BACKGROUND**
 >
-> * 本硕博毕业于西北农林科技大学
-> * 动物遗传育种与繁殖，博士；动物学，硕士；动物科学，学士
+>  * 华中农大-深圳基因组所，联合培养博士在读
+>  * 华中农业大学，动物遗传育种与繁殖，农学硕士
+>  * 湖南农业大学，动物科学，农学学士   

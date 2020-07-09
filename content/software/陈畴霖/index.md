@@ -1,8 +1,8 @@
 ---
-title: 张松
-summary: 博后
+title: 陈畴霖
+summary: 硕士
 tags:
-- 博后
+- 硕士
 #- RNA-Seq
 #- Machine Learning
 #- Pipeline
@@ -39,5 +39,5 @@ url_code: "https://github.com/cma2015/CAFU"
 >
 > **BACKGROUND**
 >
-> * 本硕博毕业于西北农林科技大学
-> * 动物遗传育种与繁殖，博士；动物学，硕士；动物科学，学士
+> *  华中农业大学、深圳基因组研究所，联合培养硕士在读
+> * 内蒙古民族大学，动物科学，学士
