@@ -1,16 +1,16 @@
 ---
 title: "KGBassembler: A Karyotype-based Genome Assembler for Brassicaceae Species"
 authors:
-- Chuang Ma
-- Hao Chen
-- Mingming Xin
-- Ruolin Yang
-- Xiangfeng Wang
-date: "2012-09-01T00:00:00Z"
-doi: "10.1093/bioinformatics/bts586"
+- Yuwen Liu
+- Jie Zhou
+- Kevin P. White
+#- Ruolin Yang
+#- Xiangfeng Wang
+#date: "2012-09-01T00:00:00Z"
+doi: "10.1093/bioinformatics/btt688"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2012-09-01T00:00:00Z"
+#publishDate: "2012-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,28 +22,30 @@ publication_types: ["2"]
 publication: "*Bioinformatics*"
 publication_short: "Bioinformatics"
 
-abstract: "**MOTIVATION**:<br>The Brassicaceae family includes the most important plant model Arabidopsis thaliana and many cruciferous vegetable crops. A number of close relatives of Arabidopsis and economically important Brassica species are being sequenced with whole-genome shotgun sequencing technologies. However, de novo assembly of full chromosomes is difficult, since many non-model Brassicaceae species are lacking genetic and/or physical maps. As a unique feature for Brassicaceae, the genome of each member is composed of 24 conserved chromosomal blocks, and the arrangement of the 24 blocks can be obtained from karyotype analysis via comparative chromosome painting experiments. Taking this advantage, we developed a bioinformatic tool named KGBassembler to automatically finalize assembly of full chromosomes from contigs and/or scaffolds based on available karyotypes of Brassicaceae species.<br>**AVAILABILITY**:<br>KGBassembler was implemented in C++ with a graphical user interface. It is freely available to academic users at http://www.cmbb.arizona.edu/KGBassembler/."
+abstract: "**Motivation**: RNA-seq is replacing microarrays as the primary tool for gene expression studies. Many RNA-seq studies have used insufficient biological replicates resulting in low statistical power and inefficient use of sequencing resources.
+**Results**: We show the explicit trade-off between more biological replicates and deeper sequencing in increasing power to detect differentially expressed (DE) genes. In the human cell line MCF7, adding more sequencing depth after 10 M reads gives diminishing returns on power to detect DE genes, whereas adding biological replicates improves power significantly regardless of sequencing depth. We also propose
+a cost-effectiveness metric for guiding the design of large-scale RNAseq DE studies. Our analysis showed that sequencing less reads and performing more biological replication is an effective strategy to increase power and accuracy in large-scale differential expression RNAseq studies, and provided new insights into efficient experiment design of RNA-seq studies."
 
 # Summary. An optional shortened abstract.
 #summary: 
 
 tags:
-- Algorithms
-- Brassicaceae Genetics
-- Chromosome Painting
-- Computational Biology Methods
-- Computer Graphics
-- Contig Mapping
-- Genome
-- Plant
-- Karyotyping
-- Sequence Alignment
-- User-Computer Interface
+#- Algorithms
+#- Brassicaceae Genetics
+#- Chromosome Painting
+#- Computational Biology Methods
+#- Computer Graphics
+#- Contig Mapping
+#- Genome
+#- Plant
+#- Karyotyping
+#- Sequence Alignment
+#- User-Computer Interface
 featured: false
 
 links:
 - name: PubMed
-  url: https://www.ncbi.nlm.nih.gov/pubmed/23044544
+  url: https://pubmed.ncbi.nlm.nih.gov/24319002/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
