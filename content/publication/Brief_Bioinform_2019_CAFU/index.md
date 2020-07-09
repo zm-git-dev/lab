@@ -1,5 +1,5 @@
 ---
-title: "RNA-seq differential expression studies: more sequence or more replication?"
+title:"RNA-seq differential expression studies: more sequence or more replication?"
 authors:
 - Yuwen Liu
 -  Jie Zhou
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*BIOINFORMATICS*"
 publication_short: "BIOINFORMATICS"
 
-abstract: "**ABSTRACT**：Motivation: RNA-seq is replacing microarrays as the primary tool for gene expression studies. Many RNA-seq studies have used insufficient biological replicates, resulting in low statistical power and inefficient use of sequencing resources.
+abstract: **Motivation**: RNA-seq is replacing microarrays as the primary tool for gene expression studies. Many RNA-seq studies have used insufficient biological replicates, resulting in low statistical power and inefficient use of sequencing resources.
 **Results**: We show the explicit trade-off between more biological replicates and deeper sequencing in increasing power to detect differentially expressed (DE) genes. In the human cell line MCF7, adding more sequencing depth after 10 M reads gives diminishing returns on power to detect DE genes, whereas adding biological replicates improves power significantly regardless of sequencing depth. We also propose
 a cost-effectiveness metric for guiding the design of large-scale RNAseq DE studies. Our analysis showed that sequencing less reads and performing more biological replication is an effective strategy to increase power and accuracy in large-scale differential expression RNA-seq studies, and provided new insights into efficient experiment
 design of RNA-seq studies."
