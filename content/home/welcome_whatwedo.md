@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome to Liu Lab"
+title = "<center>Welcome to Liu Lab</center>center>"
 subtitle = ""
 
 [design]
@@ -52,7 +52,7 @@ subtitle = ""
 
 {{% alert note %}}
 
-**课题组简介:**课题组目前隶属于动物基因组研究中心“猪基因组设计育种创新团队”，侧重开发实验和计算方法，通过整合多组学数据，研究复杂性状形成的遗传基础。方法将在猪的产肉性状上重点应用，从源头上提高生猪种源的质量。
+课题组简介: 课题组目前隶属于动物基因组研究中心“猪基因组设计育种创新团队”，侧重开发实验和计算方法，通过整合多组学数据，研究复杂性状形成的遗传基础。方法将在猪的产肉性状上重点应用，从源头上提高生猪种源的质量。
 
 {{% /alert %}}
 
