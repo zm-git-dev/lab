@@ -1,18 +1,15 @@
 ---
-title: "HAO"
+title: "RNA-seq differential expression studies: more sequence or
+more replication?"
 authors:
-- Zhixu Qiu
-- Siyuan Chen
-- Yuhong Qi
-- Chunni Liu
-- Jingjing Zhai
-- Shang Xie
-- Chuang Ma
-date: "2020-06-01T00:00:00Z"
-doi: ""
+- Yuwen Liu
+-  Jie Zhou
+-  Kevin P. White
+date: "2013-12-06T00:00:00Z"
+doi: "10.1093/bioinformatics/btt688"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-01T00:00:00Z"
+#publishDate: "2020-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,10 +18,14 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Briefings in Bioinformatics*"
-publication_short: "Brief Bioinform"
+publication: "*Bioinformatics*"
+publication_short: "Bioinformatics"
 
-abstract: "Transcriptional switch (TS) is a widely observed phenomenon caused by changes in the relative expression of transcripts from the same gene, in spatial, temporal, or other dimensions. TS has been associated with human diseases, plant development, and stress responses. Its investigation is often hampered by a lack of suitable tools allowing comprehensive and flexible TS analysis for high-throughput RNA sequencing (RNA-Seq) data. Here, we present deepTS, a user-friendly web-based implementation that enables a fullyinteractive, multifunctional identification, visualization and analysis of TS events for large-scale RNA-Seq data sets from pairwise, temporal, and population experiments. deepTS offers rich functionality to streamline RNA-Seq-based TS analysis for both model and non-model organisms and for those with or without reference transcriptome. The presented case studies highlight the capabilities of deepTS and demonstrate its potential for the transcriptome-wide TS analysis of pairwise, temporal, and population RNA-Seq data. We believe deepTS will help research groups, regardless of their informatics expertise, perform accessible, reproducible, and collaborative TS analyses of large-scale RNA-Seq data."
+abstract: "RNA-seq is replacing microarrays as the primary tool
+for gene expression studies. Many RNA-seq studies have used insufficient biological replicates, resulting in low statistical power and inefficient use of sequencing resources.
+
+Results: We show the explicit trade-off between more biological replicates and deeper sequencing in increasing power to detect differentially expressed (DE) genes. In the human cell line MCF7, adding more sequencing depth after 10 M reads gives diminishing returns on power to detect DE genes, whereas adding biological replicates improves power significantly regardless of sequencing depth. We also propose
+a cost-effectiveness metric for guiding the design of large-scale RNAseq DE studies. Our analysis showed that sequencing less reads and performing more biological replication is an effective strategy to increase power and accuracy in large-scale differential expression RNAseq studies, and provided new insights into efficient experiment design of RNA-seq studies."
 
 # Summary. An optional shortened abstract.
 #summary: 
@@ -34,15 +35,15 @@ featured: true
 
 links:
 - name: PubMed
-  url: https://www.ncbi.nlm.nih.gov/pubmed//
-url_pdf: ''
-url_code: 'https://github.com/cma2015/deepTS'
-url_dataset: ''
-url_poster: ''
-url_project: 'http://deepts.nwafu.edu.cn'
-url_slides: ''
-url_source: ''
-url_video: ''
+  url: https://pubmed.ncbi.nlm.nih.gov/24319002/
+#url_pdf: ''
+#url_code: 'https://github.com/cma2015/deepTS'
+#url_dataset: ''
+#url_poster: ''
+#url_project: 'http://deepts.nwafu.edu.cn'
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
