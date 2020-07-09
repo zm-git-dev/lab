@@ -1,8 +1,8 @@
 ---
-title: CAFU
-summary: A bioinformatics framework for comprehensive assembly and functional annotation
+title: 郑伟刚
+summary: 
 tags:
-- 研究员
+- 科研助理
 #- RNA-Seq
 #- Machine Learning
 #- Pipeline
