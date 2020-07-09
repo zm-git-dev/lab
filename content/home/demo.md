@@ -23,18 +23,18 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -45,31 +45,20 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+课题组目前隶属于动物基因组研究中心“猪基因组设计育种创新团队”，侧重开发实验和计算方法，通过整合多组学数据，研究复杂性状形成的遗传基础。方法将在猪的产肉性状上重点应用，从源头上提高生猪种源的质量。
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+**研究方向**
 
-**To remove this section, delete `content/home/demo.md`.**
-Welcome to the **Academic Kickstart** template!
-
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
-
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+* 建立起完整的猪骨骼肌不同发育阶段的非编码区功能基因组注释;
+* 在群体层面研究DNA变异如何通过影响转录调控的不同元件来影响猪的产肉性状，继而在全基因组层面解析产肉性状的遗传机理;
+* 开发新的实验方法找寻影响复杂性状的非编码区调控原件;
+* 开发新计算方法，提高全基因组选育的准确性，包括结合功能基因组注释进行性状预测和跨群体的性状预测;
+* 开发基于新生突变寻找复杂性状效应基因的新算法。
 
 {{% /alert %}}
