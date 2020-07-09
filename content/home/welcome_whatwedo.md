@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "<center>Welcome to Liu Lab</center>center>"
+title = "<center>Welcome to Liu Lab</center>"
 subtitle = ""
 
 [design]
@@ -56,7 +56,7 @@ subtitle = ""
 
 {{% /alert %}}
 
-##  研究方向:
+##  Major research interests:
 
 - 建立起完整的猪骨骼肌不同发育阶段的非编码区功能基因组注释;
 - 在群体层面研究DNA变异如何通过影响转录调控的不同元件来影响猪的产肉性状，继而在全基因组层面解析产肉性状的遗传机理;
