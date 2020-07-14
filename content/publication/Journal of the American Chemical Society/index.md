@@ -34,7 +34,15 @@ publication: "*Journal of the American Chemical Society*"
 publication_short: "J Am Chem Soc"
 
 abstract: "5-Hydroxymethylcytosine (5hmC) arises from the oxidation of 5-methylcytosine (5mC) by Fe2+ and 2
--oxoglutarate-dependent 10–11 translocation (TET) family proteins. Substantial levels of 5hmC accumulate in many mammalian tissues, especially in neurons and embryonic stem cells, suggesting a potential active role for 5hmC in epigenetic regulation beyond being simply an intermediate of active DNA demethylation. 5mC and 5hmC undergo dynamic changes during embryogenesis, neurogenesis, hematopoietic development, and oncogenesis. While methods have been developed to map 5hmC, more efficient approaches to detect 5hmC at base resolution are still"
+-oxoglutarate-dependent 10–11 translocation (TET) family proteins. Substantial levels of 5hmC accumulate in many mammalian tissues, especially in neurons and embryonic stem 
+cells, suggesting a potential active role for 5hmC in epigenetic regulation beyond being simply an intermediate of active DNA demethylation. 
+5mC and 5hmC undergo dynamic changes during embryogenesis, neurogenesis, hematopoietic development, and oncogenesis. 
+While methods have been developed to map 5hmC, more efficient approaches to detect 5hmC at base resolution are still highly desirable. Herein, 
+we present a new method, Jump-seq, to capture and amplify 5hmC in genomic DNA. The principle of this method is to label 5hmC by the 6- N3-glucose moiety and
+ connect a hairpin DNA oligonucleotide carrying an alkyne group to the azide-modified 5hmC via Huisgen cycloaddition (click) chemistry. 
+ Primer extension starts from the hairpin motif to the modified 5hmC site and then continues to "land" on genomic DNA. 
+ 5hmC sites are inferred from genomic DNA sequences immediately spanning the 5-prime junction. This technology was validated, 
+ and its utility in 5hmC identification was confirmed."
 
 # Summary. An optional shortened abstract.
 #summary: 
